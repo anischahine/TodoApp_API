@@ -1,4 +1,4 @@
-This is a simple backend (API) for a TodoApp, getting data from mongodb online database.
+This is a simple backend (API) for a TodoApp, getting data from mongodb online database.(the database link was removed for policy)
 The main idea was consisting on accounts and task related to these account.
 The user can sign up using the front end side, access its dashboard with list of created, completed and archived tasks.
 
